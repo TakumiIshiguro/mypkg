@@ -1,7 +1,10 @@
+[![test](https://github.com/TakumiIshiguro/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/TakumiIshiguro/mypkg/actions/workflows/test.yml)
+
 ## mypkg
 
 千葉工業大学未来ロボティクス学科のロボットシステム学の講義で作成したレポジトリである。
-このレポジトリではros2を用いて、talekerとlistenerが通信するのを確認することができる。
+
+このレポジトリではros2を用いて、talekerとlistenerという名前のノードが通信するのを確認することができる。
 
 
 ## 機能
@@ -9,7 +12,7 @@
 
 ### ノード
 
-### 1. taler
+### 1. talker
 
 * 機能
 
