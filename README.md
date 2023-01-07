@@ -2,9 +2,9 @@
 
 # mypkg
 
-千葉工業大学未来ロボティクス学科のロボットシステム学の講義で作成したレポジトリである。
-
+千葉工業大学未来ロボティクス学科のロボットシステム学の講義で作成したレポジトリである。  
 このレポジトリではros2を用いて、talekerとlistenerという名前のノードが通信するのを確認することができる。
+
 
 
 ## 機能
@@ -71,10 +71,12 @@ $ ros2 launch mypkg talk_listen.launch.py
 [listener-2] [INFO] [1672986664.693530459] [listener]: Listen: 3
 ```
 
+
 ## テスト環境
 
 * Ubuntu 22.04.1 LTS
 * ROS2 Humble
+
 
 
 ## インストール方法
@@ -86,8 +88,8 @@ $ git clone https://github.com/TakumiIshiguro/mypkg.git
 ```
 
 
+
 ## ライセンス
 
-このソフトウェアパッケージは3条項BSDのライセンスの下、再頒布および使用が使用が許可されます。
-
+このソフトウェアパッケージは3条項BSDのライセンスの下、再頒布および使用が使用が許可されます。  
 © 2022 Takumi Ishiguro
