@@ -72,6 +72,12 @@ $ ros2 launch mypkg talk_listen.launch.py
 ```
 
 
+## トピック
+
+talkerとlistnerの通信にはcountupのトピックを使用している。
+
+<img width="373" alt="画像1" src="https://user-images.githubusercontent.com/115678367/211147023-e18966d8-9739-447a-9a6b-f9b1413182dc.png">
+
 ## テスト環境
 
 * Ubuntu 22.04.1 LTS
