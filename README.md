@@ -1,6 +1,6 @@
 [![test](https://github.com/TakumiIshiguro/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/TakumiIshiguro/mypkg/actions/workflows/test.yml)
 
-## mypkg
+# mypkg
 
 千葉工業大学未来ロボティクス学科のロボットシステム学の講義で作成したレポジトリである。
 
@@ -48,7 +48,7 @@ $ ros2 run mypkg listner
 [INFO] [1672985677.536960527] [listener]: Listen: 39
 ```
 
-## ローンチ
+### ローンチ
 
 talkerとlistnerを同時に実行することができる。
 
@@ -74,7 +74,7 @@ $ ros2 launch mypkg talk_listen.launch.py
 ## テスト環境
 
 * Ubuntu 22.04.1 LTS
-* ROS2
+* ROS2 Humble
 
 
 ## インストール方法
